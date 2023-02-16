@@ -1,0 +1,21 @@
+Red {
+    font-size:1cm;
+    color: red;
+    font-weight: bold;
+
+    position: relative;
+    left:3cm;
+}
+
+button {
+    border: 1px solid skyblue;
+    background-color: rgba(0, 0, 0, 0);
+    color:skyblue;
+    padding:5px;
+}
+
+B {
+    color:coral;
+    position: relative;
+    left:4cm;
+}
